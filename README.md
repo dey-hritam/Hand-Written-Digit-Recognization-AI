@@ -1,1 +1,1 @@
-# Hand-Written-Digit-Recognization-AI
+#ML-Projects
